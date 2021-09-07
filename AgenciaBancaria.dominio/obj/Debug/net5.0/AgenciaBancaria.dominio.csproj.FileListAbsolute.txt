@@ -1,0 +1,12 @@
+Z:\.NET\1Projeto\AgenciaBancaria.dominio\AgenciaBancaria.dominio\bin\Debug\net5.0\AgenciaBancaria.dominio.deps.json
+Z:\.NET\1Projeto\AgenciaBancaria.dominio\AgenciaBancaria.dominio\bin\Debug\net5.0\AgenciaBancaria.dominio.dll
+Z:\.NET\1Projeto\AgenciaBancaria.dominio\AgenciaBancaria.dominio\bin\Debug\net5.0\ref\AgenciaBancaria.dominio.dll
+Z:\.NET\1Projeto\AgenciaBancaria.dominio\AgenciaBancaria.dominio\bin\Debug\net5.0\AgenciaBancaria.dominio.pdb
+Z:\.NET\1Projeto\AgenciaBancaria.dominio\AgenciaBancaria.dominio\obj\Debug\net5.0\AgenciaBancaria.dominio.csproj.AssemblyReference.cache
+Z:\.NET\1Projeto\AgenciaBancaria.dominio\AgenciaBancaria.dominio\obj\Debug\net5.0\AgenciaBancaria.dominio.GeneratedMSBuildEditorConfig.editorconfig
+Z:\.NET\1Projeto\AgenciaBancaria.dominio\AgenciaBancaria.dominio\obj\Debug\net5.0\AgenciaBancaria.dominio.AssemblyInfoInputs.cache
+Z:\.NET\1Projeto\AgenciaBancaria.dominio\AgenciaBancaria.dominio\obj\Debug\net5.0\AgenciaBancaria.dominio.AssemblyInfo.cs
+Z:\.NET\1Projeto\AgenciaBancaria.dominio\AgenciaBancaria.dominio\obj\Debug\net5.0\AgenciaBancaria.dominio.csproj.CoreCompileInputs.cache
+Z:\.NET\1Projeto\AgenciaBancaria.dominio\AgenciaBancaria.dominio\obj\Debug\net5.0\AgenciaBancaria.dominio.dll
+Z:\.NET\1Projeto\AgenciaBancaria.dominio\AgenciaBancaria.dominio\obj\Debug\net5.0\ref\AgenciaBancaria.dominio.dll
+Z:\.NET\1Projeto\AgenciaBancaria.dominio\AgenciaBancaria.dominio\obj\Debug\net5.0\AgenciaBancaria.dominio.pdb
